@@ -1,0 +1,41 @@
+{
+  "name": "ProtractorProject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Conf.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "protractor": "^5.2.0",
+    "protractor-jasmine2-html-reporter": "^0.0.7"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-file-missing": "^0.1.4",
+    "grunt-jasmine-nodejs": "^1.6.0",
+    "jasmine-console-reporter": "^2.0.1",
+    "protractor-jasmine2-html-reporter": "0.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jasmine",
+    "jasmine-node",
+    "grunt",
+    "gruntplugin",
+    "node",
+    "task",
+    "runner",
+    "spec",
+    "test",
+    "edge",
+    "junit",
+    "nunit",
+    "teamcity",
+    "tap",
+    "console",
+    "2"
+  ],
+  "author": "",
+  "license": "ISC"
+}
